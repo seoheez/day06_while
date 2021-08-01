@@ -13,8 +13,8 @@ public class Quiz002 {
 					break;
 					System.out.printf("%d x %d = %d \n", dan, hang, dan*hang);
 				}
-				System.out.println(); break;
-			}
+				System.out.println(); 
+			} break;
 			
 		}
 
